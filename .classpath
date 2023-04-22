@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/commons-logging-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/demos.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/demo-taglet.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/Filters.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/jasperreports-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/jcalendar.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/nimrodlf.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/OfficeLnFs_2.7.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.1-404.jdbc2.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.1-404.jdbc2ee.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.1-404.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.1-405.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.2-505.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.2-511.jdbc2.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.2-511.jdbc2ee.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.2-511.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.2-511.jdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.3-606.jdbc2.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.3-606.jdbc2ee.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.3-606.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.3-606.jdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.4-702.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-8.4-702.jdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-9.0-801.jdbc3.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-9.4.1212.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-42.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-42.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-42.2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/postgresql-42.2.21.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Proyecto BD/Pryecto_Final_BD/libs/swingx-beaninfo-1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
